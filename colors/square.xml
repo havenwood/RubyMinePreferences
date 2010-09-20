@@ -1010,36 +1010,6 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
-    <option name="RUBY_ATTR_ACCESSOR_CALL">
-      <value>
-        <option name="FOREGROUND" value="cc7833" />
-        <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
-    </option>
-    <option name="RUBY_ATTR_READER_CALL">
-      <value>
-        <option name="FOREGROUND" value="cc7833" />
-        <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
-    </option>
-    <option name="RUBY_ATTR_WRITER_CALL">
-      <value>
-        <option name="FOREGROUND" value="cc7833" />
-        <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
-    </option>
     <option name="RUBY_BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" />
@@ -1047,6 +1017,16 @@
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="RUBY_COMMA">
+      <value>
+        <option name="FOREGROUND" value="c0c0c0" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
@@ -1122,7 +1102,7 @@
     </option>
     <option name="RUBY_HEREDOC_CONTENT">
       <value>
-        <option name="FOREGROUND" value="a5c261" />
+        <option name="FOREGROUND" value="ccd6b3" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1137,16 +1117,6 @@
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
-    </option>
-    <option name="RUBY_IMPORT_CALL">
-      <value>
-        <option name="FOREGROUND" value="cc7833" />
-        <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
@@ -1192,9 +1162,9 @@
     </option>
     <option name="RUBY_LOCAL_VAR_ID">
       <value>
-        <option name="FOREGROUND" />
+        <option name="FOREGROUND" value="ccffff" />
         <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="0" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
@@ -1260,16 +1230,6 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
-    <option name="RUBY_PUBLIC_CALL">
-      <value>
-        <option name="FOREGROUND" value="cc7833" />
-        <option name="BACKGROUND" />
-        <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="0" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
-    </option>
     <option name="RUBY_REGEXP">
       <value>
         <option name="FOREGROUND" value="a5c261" />
@@ -1280,13 +1240,13 @@
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
-    <option name="RUBY_REQUIRE_CALL">
+    <option name="RUBY_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="cc7833" />
+        <option name="FOREGROUND" value="c0c0c0" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
